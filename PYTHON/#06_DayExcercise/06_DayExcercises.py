@@ -1,4 +1,4 @@
-#06_DayExcercise1
+06_DayExcercise1
 
 list = tuple()
 
