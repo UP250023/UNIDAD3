@@ -1,7 +1,11 @@
 #08_DayExcercise
 
 dog = {}
-
+dog = {'nombre',:'Yago'
+'color':'negro',
+'raza':'rottweiler',
+'piernas': '4',
+'edad': '2'}
 
 dog = {'name':'Fanta','color':'cafe','pan':'pug','brazo':4,'age':1}
 
